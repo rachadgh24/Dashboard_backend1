@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../task1.Application"
+		},
+		{
+			"path": "../../task1.DataLayer"
+		}
+	],
+	"settings": {}
+}
